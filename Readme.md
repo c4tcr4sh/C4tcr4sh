@@ -2,12 +2,25 @@
     <p>
         <img src="Images/C4tcr4sh.gif" height="200" />
     </p>
-    <h4 align="center"><samp>¡Hola! Bienvenid@ a mi GitHub.  Soy arquitecto, hacker de BIM/VDC y desarrollador full stack obsesionado con convertir el caos en sistemas productivos y sin drama. 🔧 Experto en .NET, Python, Rust y automatización para que tus herramientas en BIM/VDC funcionen a tu favor, no en tu contra. 🌐 Explorador incansable de IA (MCP, Agentes de IA), Metaverso, Web3, Unreal Engine y XR para crear nuevas realidades aplicadas a la construcción. 🚀 Aquí no solo código, también construyo puentes entre arquitectura, ingeniería y tecnología 4.0. Si quieres optimizar modelos, hackear flujos y llevar tus proyectos al siguiente nivel, estás en el lugar correcto.☁️</samp></h4>
+
+    <h3 align="center">
+        Systems Architect | AEC/BIM Platforms | Rust-Oriented Engineering
+    </h3>
+
+    <h4 align="center"><samp>
+Architect + Systems Engineer focused on transforming complex AEC (BIM/VDC) workflows into scalable, high-performance systems.
+I specialize in turning operational chaos into structured, efficient and reliable architectures through system design, automation, and data-driven engineering.
+My work bridges architecture, engineering, and software systems — building solutions that improve interoperability, reduce friction, and enable real-world productivity.
+Focused on systems thinking, structured data processing, and performance-oriented development using technologies like Rust, Python, and cloud-native architectures.
+
+Building systems that make AEC workflows work as they should — with less friction and more control.
+    </samp></h4>
+
     <p>
-        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=black&labelColor=crimson" />
-        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&color=black&labelColor=crimson" />
-        <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&color=black&labelColor=crimson" />
-        <img src="https://img.shields.io/badge/Python-000000.svg?style=for-the-badge&logo=Python&logoColor=white&color=black&labelColor=crimson" />
         <img src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white&color=black&labelColor=crimson"/>
+        <img src="https://img.shields.io/badge/Python-000000.svg?style=for-the-badge&logo=Python&logoColor=white&color=black&labelColor=crimson" />
+        <img src="https://img.shields.io/badge/TypeScript-000000.svg?style=for-the-badge&logo=typescript&logoColor=white&color=black&labelColor=crimson" />
+        <img src="https://img.shields.io/badge/C++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=black&labelColor=crimson" />
+        <img src="https://img.shields.io/badge/.NET-000000.svg?style=for-the-badge&logo=.net&logoColor=white&color=black&labelColor=crimson" />
     </p>
 </div>
